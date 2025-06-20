@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AliRizvi433/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AliRizvi433/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/AliRizvi433/leetcode/tree/master/0724-find-pivot-index) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AliRizvi433/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/AliRizvi433/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AliRizvi433/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AliRizvi433/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AliRizvi433/leetcode/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AliRizvi433/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
