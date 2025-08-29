@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AliRizvi433/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AliRizvi433/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AliRizvi433/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AliRizvi433/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/AliRizvi433/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AliRizvi433/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AliRizvi433/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AliRizvi433/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AliRizvi433/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/AliRizvi433/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AliRizvi433/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AliRizvi433/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AliRizvi433/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
