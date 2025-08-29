@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AliRizvi433/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AliRizvi433/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AliRizvi433/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AliRizvi433/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/AliRizvi433/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AliRizvi433/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AliRizvi433/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AliRizvi433/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AliRizvi433/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/AliRizvi433/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AliRizvi433/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AliRizvi433/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/AliRizvi433/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AliRizvi433/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AliRizvi433/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AliRizvi433/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/AliRizvi433/leetcode/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/AliRizvi433/leetcode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
