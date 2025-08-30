@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AliRizvi433/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AliRizvi433/leetcode/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/AliRizvi433/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3227-find-missing-and-repeated-values](https://github.com/AliRizvi433/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AliRizvi433/leetcode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AliRizvi433/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/AliRizvi433/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3227-find-missing-and-repeated-values](https://github.com/AliRizvi433/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AliRizvi433/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AliRizvi433/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AliRizvi433/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/AliRizvi433/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AliRizvi433/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AliRizvi433/leetcode/tree/master/0062-unique-paths) |
+| [3227-find-missing-and-repeated-values](https://github.com/AliRizvi433/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
