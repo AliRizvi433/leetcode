@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AliRizvi433/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/AliRizvi433/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AliRizvi433/leetcode/tree/master/0062-unique-paths) |
 | [3227-find-missing-and-repeated-values](https://github.com/AliRizvi433/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AliRizvi433/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AliRizvi433/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
