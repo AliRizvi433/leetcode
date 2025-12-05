@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/AliRizvi433/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/AliRizvi433/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/AliRizvi433/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AliRizvi433/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AliRizvi433/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AliRizvi433/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AliRizvi433/leetcode/tree/master/0724-find-pivot-index) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AliRizvi433/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AliRizvi433/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AliRizvi433/leetcode/tree/master/0062-unique-paths) |
 | [3227-find-missing-and-repeated-values](https://github.com/AliRizvi433/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AliRizvi433/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Combinatorics
 |  |
 | ------- |
